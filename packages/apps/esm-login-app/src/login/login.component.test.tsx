@@ -1,12 +1,17 @@
 import "@testing-library/jest-dom";
 import Login from "./login.component";
 import { useState } from "react";
-import { cleanup, wait } from "@testing-library/react";
-import { setSessionLocation } from "@openmrs/esm-framework";
+import { cleanup, render, screen, wait } from "@testing-library/react";
+import {
+  interpolateUrl,
+  setSessionLocation,
+  useConfig,
+} from "@openmrs/esm-framework";
 import { performLogin } from "./login.resource";
 import { useCurrentUser } from "../CurrentUserContext";
 import renderWithRouter from "../test-helpers/render-with-router";
 import userEvent from "@testing-library/user-event";
+import React from "react";
 
 const mockedLogin = performLogin as jest.Mock;
 
@@ -16,9 +21,15 @@ jest.mock("./login.resource", () => ({
 
 const mockedSetSessionLocation = setSessionLocation as jest.Mock;
 const mockedUseCurrentUser = useCurrentUser as jest.Mock;
+const mockuseConfig = useConfig as jest.Mock;
 
 jest.mock("../CurrentUserContext", () => ({
   useCurrentUser: jest.fn(),
+}));
+
+jest.mock("@openmrs/esm-framework", () => ({
+  ...(jest.requireActual("@openmrs/esm-framework/mock") as any),
+  useConfig: jest.fn(),
 }));
 
 const loginLocations = [
@@ -140,5 +151,37 @@ describe(`<Login />`, () => {
     await wait();
 
     expect(wrapper.history.location.pathname).toBe("/login/location");
+  });
+
+  it("should display image logo", () => {
+    const mockConfig = {
+      logo: {
+        src: interpolateUrl("https://someimage.png"),
+        alt: "alternative text",
+        name: null,
+      },
+    };
+
+    const locationMock = {
+      state: {
+        referrer: "/home/patient-search",
+      },
+      pathname: "/login",
+      search: "",
+      hash: "",
+    };
+
+    mockuseConfig.mockReturnValue(mockConfig);
+    render(
+      <Login
+        isLoginEnabled
+        history={undefined}
+        match={undefined}
+        location={locationMock}
+      />
+    );
+    const logo = screen.getByRole("img");
+    // expect(logo).toBeInTheDocument();
+    // expect(logo).toHaveAttribute("alt");
   });
 });
