@@ -27,4 +27,4 @@ Provides information about a currently ongoing synchronization.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:93](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L93)
+[packages/framework/esm-offline/src/sync.ts:93](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L93)

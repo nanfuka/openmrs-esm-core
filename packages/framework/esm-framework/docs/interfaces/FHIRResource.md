@@ -43,4 +43,4 @@
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/fhir-resource.ts:2](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fhir-resource.ts#L2)
+[packages/framework/esm-api/src/types/fhir-resource.ts:2](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fhir-resource.ts#L2)

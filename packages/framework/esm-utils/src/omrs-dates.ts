@@ -288,7 +288,6 @@ export const generateFormatting = () => {
   };
 
   const format = (date: Date) => {
-    console.log("the date", date, order);
     if (date === null) {
       return "";
     } else if (!(date instanceof Date)) {

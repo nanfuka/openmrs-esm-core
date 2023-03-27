@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/fhir-resource.ts:27](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fhir-resource.ts#L27)
+[packages/framework/esm-api/src/types/fhir-resource.ts:27](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fhir-resource.ts#L27)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/fhir-resource.ts:28](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fhir-resource.ts#L28)
+[packages/framework/esm-api/src/types/fhir-resource.ts:28](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fhir-resource.ts#L28)

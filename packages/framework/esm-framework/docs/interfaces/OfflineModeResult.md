@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:41](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L41)
+[packages/framework/esm-offline/src/mode.ts:41](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L41)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:39](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L39)
+[packages/framework/esm-offline/src/mode.ts:39](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L39)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:40](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L40)
+[packages/framework/esm-offline/src/mode.ts:40](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L40)

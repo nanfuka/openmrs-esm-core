@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/UserHasAccess.tsx:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/UserHasAccess.tsx#L5)
+[packages/framework/esm-react-utils/src/UserHasAccess.tsx:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/UserHasAccess.tsx#L5)

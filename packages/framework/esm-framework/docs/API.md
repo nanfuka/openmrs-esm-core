@@ -37,6 +37,7 @@
 - [formatDate](API.md#formatdate)
 - [formatDatetime](API.md#formatdatetime)
 - [formatTime](API.md#formattime)
+- [generateFormatting](API.md#generateformatting)
 - [isOmrsDateStrict](API.md#isomrsdatestrict)
 - [isOmrsDateToday](API.md#isomrsdatetoday)
 - [parseDate](API.md#parsedate)
@@ -173,7 +174,7 @@
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-patient.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-patient.ts#L9)
+[packages/framework/esm-api/src/shared-api-objects/current-patient.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-patient.ts#L9)
 
 ___
 
@@ -183,7 +184,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-patient.ts:23](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-patient.ts#L23)
+[packages/framework/esm-api/src/shared-api-objects/current-patient.ts:23](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-patient.ts#L23)
 
 ___
 
@@ -195,7 +196,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:19](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L19)
+[packages/framework/esm-utils/src/omrs-dates.ts:19](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L19)
 
 ___
 
@@ -205,7 +206,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:140](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L140)
+[packages/framework/esm-utils/src/omrs-dates.ts:140](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L140)
 
 ___
 
@@ -224,7 +225,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:142](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L142)
+[packages/framework/esm-utils/src/omrs-dates.ts:142](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L142)
 
 ___
 
@@ -236,7 +237,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/createUseStore.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/createUseStore.ts#L4)
+[packages/framework/esm-react-utils/src/createUseStore.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/createUseStore.ts#L4)
 
 ___
 
@@ -250,7 +251,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/createUseStore.ts:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/createUseStore.ts#L5)
+[packages/framework/esm-react-utils/src/createUseStore.ts:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/createUseStore.ts#L5)
 
 ___
 
@@ -260,7 +261,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/types.ts:31](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L31)
+[packages/framework/esm-config/src/types.ts:31](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L31)
 
 ___
 
@@ -270,7 +271,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/ExtensionSlot.tsx:48](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ExtensionSlot.tsx#L48)
+[packages/framework/esm-react-utils/src/ExtensionSlot.tsx:48](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ExtensionSlot.tsx#L48)
 
 ___
 
@@ -280,7 +281,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-events.ts:15](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-events.ts#L15)
+[packages/framework/esm-offline/src/service-worker-events.ts:15](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-events.ts#L15)
 
 ___
 
@@ -290,7 +291,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-messaging.ts:45](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-messaging.ts#L45)
+[packages/framework/esm-offline/src/service-worker-messaging.ts:45](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-messaging.ts#L45)
 
 ___
 
@@ -300,7 +301,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useLayoutType.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useLayoutType.ts#L3)
+[packages/framework/esm-react-utils/src/useLayoutType.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useLayoutType.ts#L3)
 
 ___
 
@@ -310,7 +311,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/fetch.ts:7](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fetch.ts#L7)
+[packages/framework/esm-api/src/types/fetch.ts:7](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/fetch.ts#L7)
 
 ___
 
@@ -320,7 +321,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/contexts.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/contexts.ts#L3)
+[packages/framework/esm-extensions/src/contexts.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/contexts.ts#L3)
 
 ___
 
@@ -330,7 +331,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:36](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L36)
+[packages/framework/esm-offline/src/mode.ts:36](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L36)
 
 ___
 
@@ -345,7 +346,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-http-headers.ts:16](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L16)
+[packages/framework/esm-offline/src/service-worker-http-headers.ts:16](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L16)
 
 ___
 
@@ -355,7 +356,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-http-headers.ts:43](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L43)
+[packages/framework/esm-offline/src/service-worker-http-headers.ts:43](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L43)
 
 ___
 
@@ -376,7 +377,7 @@ HTTP requests with these headers are handled in a special way by the SPA's servi
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-http-headers.ts:24](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L24)
+[packages/framework/esm-offline/src/service-worker-http-headers.ts:24](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L24)
 
 ___
 
@@ -412,7 +413,7 @@ for synchronizing.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:45](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L45)
+[packages/framework/esm-offline/src/sync.ts:45](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L45)
 
 ___
 
@@ -429,7 +430,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/types.ts:59](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L59)
+[packages/framework/esm-config/src/types.ts:59](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L59)
 
 ___
 
@@ -439,7 +440,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/types.ts:55](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/types.ts#L55)
+[packages/framework/esm-globals/src/types.ts:55](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/types.ts#L55)
 
 ___
 
@@ -449,7 +450,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/visit-resource.ts:12](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/visit-resource.ts#L12)
+[packages/framework/esm-api/src/types/visit-resource.ts:12](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/visit-resource.ts#L12)
 
 ___
 
@@ -473,7 +474,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/types.ts:66](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L66)
+[packages/framework/esm-config/src/types.ts:66](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L66)
 
 ___
 
@@ -497,7 +498,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/types.ts:64](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L64)
+[packages/framework/esm-config/src/types.ts:64](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/types.ts#L64)
 
 ## API Variables
 
@@ -507,7 +508,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:16](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L16)
+[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:16](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L16)
 
 ___
 
@@ -522,7 +523,7 @@ and example usage.
 
 #### Defined in
 
-[packages/framework/esm-api/src/fhir.ts:45](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/fhir.ts#L45)
+[packages/framework/esm-api/src/fhir.ts:45](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/fhir.ts#L45)
 
 ___
 
@@ -532,7 +533,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/fhir.ts:8](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/fhir.ts#L8)
+[packages/framework/esm-api/src/fhir.ts:8](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/fhir.ts#L8)
 
 ___
 
@@ -542,7 +543,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:78](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L78)
+[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:78](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L78)
 
 ___
 
@@ -552,7 +553,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/openmrs-fetch.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L11)
+[packages/framework/esm-api/src/openmrs-fetch.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L11)
 
 ___
 
@@ -572,7 +573,7 @@ A React link component which calls [navigate](API.md#navigate) when clicked
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/ConfigurableLink.tsx:32](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ConfigurableLink.tsx#L32)
+[packages/framework/esm-react-utils/src/ConfigurableLink.tsx:32](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ConfigurableLink.tsx#L32)
 
 ___
 
@@ -586,7 +587,7 @@ Available to all components. Provided by `openmrsComponentDecorator`.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/ComponentContext.ts:17](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ComponentContext.ts#L17)
+[packages/framework/esm-react-utils/src/ComponentContext.ts:17](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ComponentContext.ts#L17)
 
 ___
 
@@ -604,7 +605,7 @@ and *must* only be used once within that `<ExtensionSlot>`.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/Extension.tsx:23](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/Extension.tsx#L23)
+[packages/framework/esm-react-utils/src/Extension.tsx:23](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/Extension.tsx#L23)
 
 ___
 
@@ -614,7 +615,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/ExtensionSlot.tsx:55](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ExtensionSlot.tsx#L55)
+[packages/framework/esm-react-utils/src/ExtensionSlot.tsx:55](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/ExtensionSlot.tsx#L55)
 
 ___
 
@@ -624,7 +625,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/UserHasAccess.tsx:8](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/UserHasAccess.tsx#L8)
+[packages/framework/esm-react-utils/src/UserHasAccess.tsx:8](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/UserHasAccess.tsx#L8)
 
 ___
 
@@ -641,7 +642,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/openmrs-backend-dependencies.ts:1](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-backend-dependencies.ts#L1)
+[packages/framework/esm-api/src/openmrs-backend-dependencies.ts:1](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-backend-dependencies.ts#L1)
 
 ___
 
@@ -653,7 +654,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/index.ts:12](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/index.ts#L12)
+[packages/framework/esm-extensions/src/index.ts:12](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/index.ts#L12)
 
 ___
 
@@ -663,7 +664,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/uuid.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/uuid.ts#L3)
+[packages/framework/esm-offline/src/uuid.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/uuid.ts#L3)
 
 ___
 
@@ -673,7 +674,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-http-headers.ts:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L5)
+[packages/framework/esm-offline/src/service-worker-http-headers.ts:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L5)
 
 ___
 
@@ -683,7 +684,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-http-headers.ts:1](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L1)
+[packages/framework/esm-offline/src/service-worker-http-headers.ts:1](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L1)
 
 ___
 
@@ -693,7 +694,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-http-headers.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L3)
+[packages/framework/esm-offline/src/service-worker-http-headers.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-http-headers.ts#L3)
 
 ___
 
@@ -711,7 +712,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/validators/validators.ts:57](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L57)
+[packages/framework/esm-config/src/validators/validators.ts:57](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L57)
 
 ## API Functions
 
@@ -732,7 +733,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-patient.ts:25](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-patient.ts#L25)
+[packages/framework/esm-api/src/shared-api-objects/current-patient.ts:25](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-patient.ts#L25)
 
 ___
 
@@ -777,7 +778,7 @@ leak and source of bugs.
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:60](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L60)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:60](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L60)
 
 ▸ **getCurrentUser**(`opts`): `Observable`<[`UnauthenticatedUser`](interfaces/UnauthenticatedUser.md)\>
 
@@ -793,7 +794,7 @@ leak and source of bugs.
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:61](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L61)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:61](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L61)
 
 ▸ **getCurrentUser**(`opts`): `Observable`<[`LoggedInUser`](interfaces/LoggedInUser.md)\>
 
@@ -809,7 +810,7 @@ leak and source of bugs.
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:64](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L64)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:64](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L64)
 
 ___
 
@@ -823,7 +824,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/location.ts:18](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/location.ts#L18)
+[packages/framework/esm-api/src/shared-api-objects/location.ts:18](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/location.ts#L18)
 
 ___
 
@@ -837,7 +838,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:135](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L135)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:135](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L135)
 
 ___
 
@@ -851,7 +852,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:144](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L144)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:144](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L144)
 
 ___
 
@@ -865,7 +866,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-type.ts:19](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-type.ts#L19)
+[packages/framework/esm-api/src/shared-api-objects/visit-type.ts:19](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-type.ts#L19)
 
 ___
 
@@ -887,7 +888,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:24](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L24)
+[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:24](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L24)
 
 ___
 
@@ -907,7 +908,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/openmrs-fetch.ts:13](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L13)
+[packages/framework/esm-api/src/openmrs-fetch.ts:13](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L13)
 
 ___
 
@@ -974,7 +975,7 @@ free up memory and network resources and to prevent race conditions.
 
 #### Defined in
 
-[packages/framework/esm-api/src/openmrs-fetch.ts:66](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L66)
+[packages/framework/esm-api/src/openmrs-fetch.ts:66](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L66)
 
 ___
 
@@ -1025,7 +1026,7 @@ To cancel the network request, simply call `subscription.unsubscribe();`
 
 #### Defined in
 
-[packages/framework/esm-api/src/openmrs-fetch.ts:237](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L237)
+[packages/framework/esm-api/src/openmrs-fetch.ts:237](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/openmrs-fetch.ts#L237)
 
 ___
 
@@ -1051,7 +1052,7 @@ refetchCurrentUser()
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:117](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L117)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:117](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L117)
 
 ___
 
@@ -1072,7 +1073,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:49](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L49)
+[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:49](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L49)
 
 ___
 
@@ -1093,7 +1094,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:156](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L156)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:156](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L156)
 
 ___
 
@@ -1113,7 +1114,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/location.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/location.ts#L11)
+[packages/framework/esm-api/src/shared-api-objects/location.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/location.ts#L11)
 
 ___
 
@@ -1133,7 +1134,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-type.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-type.ts#L11)
+[packages/framework/esm-api/src/shared-api-objects/visit-type.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-type.ts#L11)
 
 ___
 
@@ -1155,7 +1156,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:63](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L63)
+[packages/framework/esm-api/src/shared-api-objects/visit-utils.ts:63](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/visit-utils.ts#L63)
 
 ___
 
@@ -1176,7 +1177,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/shared-api-objects/current-user.ts:131](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L131)
+[packages/framework/esm-api/src/shared-api-objects/current-user.ts:131](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/shared-api-objects/current-user.ts#L131)
 
 ___
 
@@ -1199,7 +1200,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-breadcrumbs/src/filter.ts:49](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/filter.ts#L49)
+[packages/framework/esm-breadcrumbs/src/filter.ts:49](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/filter.ts#L49)
 
 ___
 
@@ -1213,7 +1214,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-breadcrumbs/src/db.ts:50](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/db.ts#L50)
+[packages/framework/esm-breadcrumbs/src/db.ts:50](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/db.ts#L50)
 
 ___
 
@@ -1233,7 +1234,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-breadcrumbs/src/filter.ts:78](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/filter.ts#L78)
+[packages/framework/esm-breadcrumbs/src/filter.ts:78](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/filter.ts#L78)
 
 ___
 
@@ -1253,7 +1254,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-breadcrumbs/src/db.ts:26](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/db.ts#L26)
+[packages/framework/esm-breadcrumbs/src/db.ts:26](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/db.ts#L26)
 
 ___
 
@@ -1273,7 +1274,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-breadcrumbs/src/db.ts:35](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/db.ts#L35)
+[packages/framework/esm-breadcrumbs/src/db.ts:35](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-breadcrumbs/src/db.ts#L35)
 
 ___
 
@@ -1311,7 +1312,7 @@ locales.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:182](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L182)
+[packages/framework/esm-utils/src/omrs-dates.ts:182](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L182)
 
 ___
 
@@ -1340,7 +1341,7 @@ output of `Date.prototype.toLocaleString` for *most* locales.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:249](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L249)
+[packages/framework/esm-utils/src/omrs-dates.ts:249](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L249)
 
 ___
 
@@ -1363,7 +1364,28 @@ Formats the input as a time, according to the current locale.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:233](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L233)
+[packages/framework/esm-utils/src/omrs-dates.ts:233](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L233)
+
+___
+
+### generateFormatting
+
+▸ `Const` **generateFormatting**(): `Object`
+
+#### Returns
+
+`Object`
+
+| Name | Type |
+| :------ | :------ |
+| `dateFormat` | `string` |
+| `format` | (`date`: `Date`) => `string` |
+| `parse` | (`value`: `string`) => `Date` |
+| `placeHolder` | `string` |
+
+#### Defined in
+
+[packages/framework/esm-utils/src/omrs-dates.ts:266](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L266)
 
 ___
 
@@ -1386,7 +1408,7 @@ The format should be YYYY-MM-DDTHH:mm:ss.SSSZZ
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:27](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L27)
+[packages/framework/esm-utils/src/omrs-dates.ts:27](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L27)
 
 ___
 
@@ -1406,7 +1428,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:64](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L64)
+[packages/framework/esm-utils/src/omrs-dates.ts:64](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L64)
 
 ___
 
@@ -1429,7 +1451,7 @@ Uses `dayjs(dateString)`.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:136](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L136)
+[packages/framework/esm-utils/src/omrs-dates.ts:136](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L136)
 
 ___
 
@@ -1451,7 +1473,7 @@ Converts the object to a date object if it is a valid ISO date time string.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:71](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L71)
+[packages/framework/esm-utils/src/omrs-dates.ts:71](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L71)
 
 ___
 
@@ -1475,7 +1497,7 @@ Formats the input as a date string. By default the format "YYYY-MMM-DD" is used.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:128](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L128)
+[packages/framework/esm-utils/src/omrs-dates.ts:128](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L128)
 
 ___
 
@@ -1498,7 +1520,7 @@ Formats the input as a date string using the format "DD - MMM - YYYY".
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:112](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L112)
+[packages/framework/esm-utils/src/omrs-dates.ts:112](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L112)
 
 ___
 
@@ -1521,7 +1543,7 @@ Formats the input as a date time string using the format "YYYY-MM-DDTHH:mm:ss.SS
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:82](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L82)
+[packages/framework/esm-utils/src/omrs-dates.ts:82](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L82)
 
 ___
 
@@ -1544,7 +1566,7 @@ Formats the input as a time string using the format "HH:mm A".
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:104](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L104)
+[packages/framework/esm-utils/src/omrs-dates.ts:104](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L104)
 
 ___
 
@@ -1567,7 +1589,7 @@ Formats the input as a time string using the format "HH:mm".
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:96](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L96)
+[packages/framework/esm-utils/src/omrs-dates.ts:96](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L96)
 
 ___
 
@@ -1590,7 +1612,7 @@ Formats the input as a date string using the format "DD-MMM".
 
 #### Defined in
 
-[packages/framework/esm-utils/src/omrs-dates.ts:120](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L120)
+[packages/framework/esm-utils/src/omrs-dates.ts:120](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/omrs-dates.ts#L120)
 
 ___
 
@@ -1627,7 +1649,7 @@ navigate({
 
 #### Defined in
 
-[packages/framework/esm-config/src/navigation/interpolate-string.ts:41](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/navigation/interpolate-string.ts#L41)
+[packages/framework/esm-config/src/navigation/interpolate-string.ts:41](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/navigation/interpolate-string.ts#L41)
 
 ___
 
@@ -1652,7 +1674,7 @@ parameters in configurable URLs.
 
 #### Defined in
 
-[packages/framework/esm-config/src/navigation/interpolate-string.ts:14](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/navigation/interpolate-string.ts#L14)
+[packages/framework/esm-config/src/navigation/interpolate-string.ts:14](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/navigation/interpolate-string.ts#L14)
 
 ___
 
@@ -1674,7 +1696,7 @@ Verifies that a string contains only the default URL template parameters.
 
 #### Defined in
 
-[packages/framework/esm-config/src/validators/validators.ts:55](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L55)
+[packages/framework/esm-config/src/validators/validators.ts:55](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L55)
 
 ___
 
@@ -1697,7 +1719,7 @@ parameters, plus any specified in `allowedTemplateParameters`.
 
 #### Defined in
 
-[packages/framework/esm-config/src/validators/validators.ts:23](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L23)
+[packages/framework/esm-config/src/validators/validators.ts:23](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L23)
 
 ___
 
@@ -1727,7 +1749,7 @@ const submitHandler = () => {
 
 #### Defined in
 
-[packages/framework/esm-config/src/navigation/navigate.ts:29](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/navigation/navigate.ts#L29)
+[packages/framework/esm-config/src/navigation/navigate.ts:29](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/navigation/navigate.ts#L29)
 
 ___
 
@@ -1743,7 +1765,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:65](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L65)
+[packages/framework/esm-offline/src/mode.ts:65](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L65)
 
 ___
 
@@ -1767,7 +1789,7 @@ A human-readable string version of the age.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/age-helpers.tsx:37](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/age-helpers.tsx#L37)
+[packages/framework/esm-utils/src/age-helpers.tsx:37](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/age-helpers.tsx#L37)
 
 ___
 
@@ -1801,7 +1823,7 @@ writing a module for a specific implementation.
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:126](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L126)
+[packages/framework/esm-extensions/src/extensions.ts:126](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L126)
 
 ___
 
@@ -1824,7 +1846,7 @@ If this is not possible, throws an error.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:354](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L354)
+[packages/framework/esm-offline/src/sync.ts:354](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L354)
 
 ___
 
@@ -1847,7 +1869,7 @@ registered synchronization handlers.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:344](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L344)
+[packages/framework/esm-offline/src/sync.ts:344](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L344)
 
 ___
 
@@ -1868,7 +1890,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/helpers.ts:1](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/helpers.ts#L1)
+[packages/framework/esm-extensions/src/helpers.ts:1](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/helpers.ts#L1)
 
 ___
 
@@ -1890,7 +1912,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/helpers.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/helpers.ts#L9)
+[packages/framework/esm-extensions/src/helpers.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/helpers.ts#L9)
 
 ___
 
@@ -1916,7 +1938,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-error-handling/src/index.ts:31](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-error-handling/src/index.ts#L31)
+[packages/framework/esm-error-handling/src/index.ts:31](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-error-handling/src/index.ts#L31)
 
 ___
 
@@ -1947,7 +1969,7 @@ The newly created store.
 
 #### Defined in
 
-[packages/framework/esm-state/src/state.ts:18](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L18)
+[packages/framework/esm-state/src/state.ts:18](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L18)
 
 ___
 
@@ -2003,7 +2025,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/createUseStore.ts:21](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/createUseStore.ts#L21)
+[packages/framework/esm-react-utils/src/createUseStore.ts:21](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/createUseStore.ts#L21)
 
 ___
 
@@ -2027,7 +2049,7 @@ The number of days.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/age-helpers.tsx:6](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/age-helpers.tsx#L6)
+[packages/framework/esm-utils/src/age-helpers.tsx:6](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/age-helpers.tsx#L6)
 
 ___
 
@@ -2048,7 +2070,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/module-config/module-config.ts:170](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L170)
+[packages/framework/esm-config/src/module-config/module-config.ts:170](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L170)
 
 ___
 
@@ -2070,7 +2092,7 @@ Deletes a queued up sync item with the given ID.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:374](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L374)
+[packages/framework/esm-offline/src/sync.ts:374](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L374)
 
 ___
 
@@ -2093,7 +2115,7 @@ Avoid using this. Extension attachments should be considered declarative.
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:157](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L157)
+[packages/framework/esm-extensions/src/extensions.ts:157](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L157)
 
 ___
 
@@ -2115,7 +2137,7 @@ Avoid using this. Extension attachments should be considered declarative.
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:181](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L181)
+[packages/framework/esm-extensions/src/extensions.ts:181](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L181)
 
 ___
 
@@ -2135,7 +2157,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:7](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L7)
+[packages/framework/esm-globals/src/events.ts:7](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L7)
 
 ___
 
@@ -2155,7 +2177,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/events.ts:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/events.ts#L5)
+[packages/framework/esm-offline/src/events.ts:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/events.ts#L5)
 
 ___
 
@@ -2175,7 +2197,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:81](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L81)
+[packages/framework/esm-globals/src/events.ts:81](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L81)
 
 ___
 
@@ -2195,7 +2217,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:34](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L34)
+[packages/framework/esm-globals/src/events.ts:34](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L34)
 
 ___
 
@@ -2211,7 +2233,7 @@ Generates a UUID-like string which is used for uniquely identifying objects whil
 
 #### Defined in
 
-[packages/framework/esm-offline/src/uuid.ts:6](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/uuid.ts#L6)
+[packages/framework/esm-offline/src/uuid.ts:6](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/uuid.ts#L6)
 
 ___
 
@@ -2227,7 +2249,7 @@ The [store](https://github.com/developit/unistore#store) named `app`.
 
 #### Defined in
 
-[packages/framework/esm-state/src/state.ts:85](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L85)
+[packages/framework/esm-state/src/state.ts:85](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L85)
 
 ___
 
@@ -2247,7 +2269,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:249](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L249)
+[packages/framework/esm-extensions/src/extensions.ts:249](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L249)
 
 ___
 
@@ -2282,7 +2304,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/getLifecycle.ts:38](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L38)
+[packages/framework/esm-react-utils/src/getLifecycle.ts:38](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L38)
 
 ___
 
@@ -2315,7 +2337,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/getLifecycle.ts:20](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L20)
+[packages/framework/esm-react-utils/src/getLifecycle.ts:20](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L20)
 
 ___
 
@@ -2345,7 +2367,7 @@ of the execution of a function.
 
 #### Defined in
 
-[packages/framework/esm-config/src/module-config/module-config.ts:198](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L198)
+[packages/framework/esm-config/src/module-config/module-config.ts:198](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L198)
 
 ___
 
@@ -2371,7 +2393,7 @@ A list of extensions that should be rendered
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:239](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L239)
+[packages/framework/esm-extensions/src/extensions.ts:239](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L239)
 
 ___
 
@@ -2385,7 +2407,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:47](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L47)
+[packages/framework/esm-offline/src/mode.ts:47](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L47)
 
 ___
 
@@ -2406,7 +2428,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/helpers.ts:17](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/helpers.ts#L17)
+[packages/framework/esm-extensions/src/helpers.ts:17](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/helpers.ts#L17)
 
 ___
 
@@ -2438,7 +2460,7 @@ getExtensionNameFromId("baz")
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:70](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L70)
+[packages/framework/esm-extensions/src/extensions.ts:70](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L70)
 
 ___
 
@@ -2458,7 +2480,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:83](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L83)
+[packages/framework/esm-extensions/src/extensions.ts:83](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L83)
 
 ___
 
@@ -2479,7 +2501,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/extensions.ts:75](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L75)
+[packages/framework/esm-extensions/src/extensions.ts:75](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/extensions.ts#L75)
 
 ___
 
@@ -2497,7 +2519,7 @@ extension system.
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/store.ts:129](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/store.ts#L129)
+[packages/framework/esm-extensions/src/store.ts:129](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/store.ts#L129)
 
 ___
 
@@ -2529,7 +2551,7 @@ The found or newly created store.
 
 #### Defined in
 
-[packages/framework/esm-state/src/state.ts:55](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L55)
+[packages/framework/esm-state/src/state.ts:55](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L55)
 
 ___
 
@@ -2556,7 +2578,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/getLifecycle.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L9)
+[packages/framework/esm-react-utils/src/getLifecycle.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L9)
 
 ___
 
@@ -2570,7 +2592,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/offline-patient-data.ts:85](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L85)
+[packages/framework/esm-offline/src/offline-patient-data.ts:85](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L85)
 
 ___
 
@@ -2584,7 +2606,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:133](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L133)
+[packages/framework/esm-offline/src/sync.ts:133](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L133)
 
 ___
 
@@ -2606,7 +2628,7 @@ A promise which either resolves to `undefined` or to the app's {@link Workbox} i
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker.ts:42](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker.ts#L42)
+[packages/framework/esm-offline/src/service-worker.ts:42](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker.ts#L42)
 
 ___
 
@@ -2639,7 +2661,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/getLifecycle.ts:28](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L28)
+[packages/framework/esm-react-utils/src/getLifecycle.ts:28](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/getLifecycle.ts#L28)
 
 ___
 
@@ -2667,7 +2689,7 @@ Returns a queued sync item with the given ID or `undefined` if no such item exis
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:333](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L333)
+[packages/framework/esm-offline/src/sync.ts:333](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L333)
 
 ___
 
@@ -2695,7 +2717,7 @@ Returns all currently queued up sync items of the currently signed in user.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:324](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L324)
+[packages/framework/esm-offline/src/sync.ts:324](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L324)
 
 ___
 
@@ -2724,7 +2746,7 @@ Returns all currently queued up sync items of a given user.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:306](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L306)
+[packages/framework/esm-offline/src/sync.ts:306](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L306)
 
 ___
 
@@ -2750,7 +2772,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-error-handling/src/index.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-error-handling/src/index.ts#L3)
+[packages/framework/esm-error-handling/src/index.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-error-handling/src/index.ts#L3)
 
 ___
 
@@ -2773,7 +2795,7 @@ Verifies that the value is between the provided minimum and maximum
 
 #### Defined in
 
-[packages/framework/esm-config/src/validators/validators.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L9)
+[packages/framework/esm-config/src/validators/validators.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validators.ts#L9)
 
 ___
 
@@ -2787,7 +2809,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/breakpoints/index.ts:20](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/breakpoints/index.ts#L20)
+[packages/framework/esm-styleguide/src/breakpoints/index.ts:20](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/breakpoints/index.ts#L20)
 
 ___
 
@@ -2809,7 +2831,7 @@ Checks whether the given string has the format of an offline UUID generated by [
 
 #### Defined in
 
-[packages/framework/esm-offline/src/uuid.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/uuid.ts#L11)
+[packages/framework/esm-offline/src/uuid.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/uuid.ts#L11)
 
 ___
 
@@ -2834,7 +2856,7 @@ True if both are located on the same day.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/age-helpers.tsx:23](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/age-helpers.tsx#L23)
+[packages/framework/esm-utils/src/age-helpers.tsx:23](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/age-helpers.tsx#L23)
 
 ___
 
@@ -2855,7 +2877,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-utils/src/version.ts:21](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/version.ts#L21)
+[packages/framework/esm-utils/src/version.ts:21](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/version.ts#L21)
 
 ___
 
@@ -2869,7 +2891,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/offline-patient-data.ts:199](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L199)
+[packages/framework/esm-offline/src/offline-patient-data.ts:199](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L199)
 
 ___
 
@@ -2893,7 +2915,7 @@ A promise which completes when the message has been successfully processed by th
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker-messaging.ts:10](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-messaging.ts#L10)
+[packages/framework/esm-offline/src/service-worker-messaging.ts:10](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker-messaging.ts#L10)
 
 ___
 
@@ -2925,7 +2947,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/openmrsComponentDecorator.tsx:71](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/openmrsComponentDecorator.tsx#L71)
+[packages/framework/esm-react-utils/src/openmrsComponentDecorator.tsx:71](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/openmrsComponentDecorator.tsx#L71)
 
 ___
 
@@ -2939,7 +2961,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/patches.ts:1](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/patches.ts#L1)
+[packages/framework/esm-offline/src/patches.ts:1](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/patches.ts#L1)
 
 ___
 
@@ -2964,7 +2986,7 @@ Validate and interpolate defaults for `providedConfig` according to `schema`
 
 #### Defined in
 
-[packages/framework/esm-config/src/module-config/module-config.ts:220](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L220)
+[packages/framework/esm-config/src/module-config/module-config.ts:220](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L220)
 
 ___
 
@@ -2985,7 +3007,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/module-config/module-config.ts:178](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L178)
+[packages/framework/esm-config/src/module-config/module-config.ts:178](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/module-config/module-config.ts#L178)
 
 ___
 
@@ -3013,7 +3035,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/contexts.ts:24](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/contexts.ts#L24)
+[packages/framework/esm-extensions/src/contexts.ts:24](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/contexts.ts#L24)
 
 ___
 
@@ -3043,7 +3065,7 @@ Enqueues a new item in the sync queue and associates the item with the currently
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:292](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L292)
+[packages/framework/esm-offline/src/sync.ts:292](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L292)
 
 ___
 
@@ -3074,7 +3096,7 @@ Enqueues a new item in the sync queue for a specific user.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:258](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L258)
+[packages/framework/esm-offline/src/sync.ts:258](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L258)
 
 ___
 
@@ -3100,7 +3122,7 @@ Attempts to add the specified patient handler registration to the list of offlin
 
 #### Defined in
 
-[packages/framework/esm-offline/src/offline-patient-data.ts:96](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L96)
+[packages/framework/esm-offline/src/offline-patient-data.ts:96](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L96)
 
 ___
 
@@ -3126,7 +3148,7 @@ A promise which resolves to the registered {@link Workbox} instance which manage
 
 #### Defined in
 
-[packages/framework/esm-offline/src/service-worker.ts:12](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker.ts#L12)
+[packages/framework/esm-offline/src/service-worker.ts:12](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/service-worker.ts#L12)
 
 ___
 
@@ -3155,7 +3177,7 @@ that registered an extension component for this slot.
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/render.ts:17](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/render.ts#L17)
+[packages/framework/esm-extensions/src/render.ts:17](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/render.ts#L17)
 
 ___
 
@@ -3178,7 +3200,7 @@ Under normal conditions there is no need to use this function.
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/notifications/index.tsx:19](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/notifications/index.tsx#L19)
+[packages/framework/esm-styleguide/src/notifications/index.tsx:19](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/notifications/index.tsx#L19)
 
 ___
 
@@ -3204,7 +3226,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/spinner/index.ts:1](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/spinner/index.ts#L1)
+[packages/framework/esm-styleguide/src/spinner/index.ts:1](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/spinner/index.ts#L1)
 
 ___
 
@@ -3224,7 +3246,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/modals/index.tsx:109](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/modals/index.tsx#L109)
+[packages/framework/esm-styleguide/src/modals/index.tsx:109](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/modals/index.tsx#L109)
 
 ___
 
@@ -3247,7 +3269,7 @@ Under normal conditions there is no need to use this function.
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/toasts/index.tsx:16](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/toasts/index.tsx#L16)
+[packages/framework/esm-styleguide/src/toasts/index.tsx:16](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/toasts/index.tsx#L16)
 
 ___
 
@@ -3267,7 +3289,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-error-handling/src/index.ts:24](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-error-handling/src/index.ts#L24)
+[packages/framework/esm-error-handling/src/index.ts:24](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-error-handling/src/index.ts#L24)
 
 ___
 
@@ -3305,7 +3327,7 @@ The result of successfully executing `fn`.
 
 #### Defined in
 
-[packages/framework/esm-utils/src/retry.ts:38](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/retry.ts#L38)
+[packages/framework/esm-utils/src/retry.ts:38](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/retry.ts#L38)
 
 ___
 
@@ -3321,7 +3343,7 @@ Runs a full synchronization of **all** queued synchronization items.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:140](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L140)
+[packages/framework/esm-offline/src/sync.ts:140](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L140)
 
 ___
 
@@ -3341,7 +3363,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/mode.ts:55](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L55)
+[packages/framework/esm-offline/src/mode.ts:55](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/mode.ts#L55)
 
 ___
 
@@ -3372,7 +3394,7 @@ Registers a new synchronization handler which is able to synchronize data of a s
 
 #### Defined in
 
-[packages/framework/esm-offline/src/sync.ts:389](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L389)
+[packages/framework/esm-offline/src/sync.ts:389](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/sync.ts#L389)
 
 ___
 
@@ -3392,7 +3414,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/globals.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/globals.ts#L3)
+[packages/framework/esm-globals/src/globals.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/globals.ts#L3)
 
 ___
 
@@ -3406,7 +3428,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/globals.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/globals.ts#L11)
+[packages/framework/esm-globals/src/globals.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/globals.ts#L11)
 
 ___
 
@@ -3438,7 +3460,7 @@ The dispose function to force closing the modal dialog.
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/modals/index.tsx:163](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/modals/index.tsx#L163)
+[packages/framework/esm-styleguide/src/modals/index.tsx:163](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/modals/index.tsx#L163)
 
 ___
 
@@ -3460,7 +3482,7 @@ Displays an inline notification in the UI.
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/notifications/index.tsx:40](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/notifications/index.tsx#L40)
+[packages/framework/esm-styleguide/src/notifications/index.tsx:40](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/notifications/index.tsx#L40)
 
 ___
 
@@ -3482,7 +3504,7 @@ Displays a toast notification in the UI.
 
 #### Defined in
 
-[packages/framework/esm-styleguide/src/toasts/index.tsx:34](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/toasts/index.tsx#L34)
+[packages/framework/esm-styleguide/src/toasts/index.tsx:34](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-styleguide/src/toasts/index.tsx#L34)
 
 ___
 
@@ -3508,7 +3530,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:22](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L22)
+[packages/framework/esm-globals/src/events.ts:22](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L22)
 
 ___
 
@@ -3534,7 +3556,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:13](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L13)
+[packages/framework/esm-globals/src/events.ts:13](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L13)
 
 ___
 
@@ -3560,7 +3582,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-offline/src/events.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/events.ts#L11)
+[packages/framework/esm-offline/src/events.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/events.ts#L11)
 
 ___
 
@@ -3586,7 +3608,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:87](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L87)
+[packages/framework/esm-globals/src/events.ts:87](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L87)
 
 ___
 
@@ -3612,7 +3634,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:42](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L42)
+[packages/framework/esm-globals/src/events.ts:42](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L42)
 
 ___
 
@@ -3641,7 +3663,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-state/src/state.ts:89](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L89)
+[packages/framework/esm-state/src/state.ts:89](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-state/src/state.ts#L89)
 
 ___
 
@@ -3667,7 +3689,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-globals/src/events.ts:95](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L95)
+[packages/framework/esm-globals/src/events.ts:95](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-globals/src/events.ts#L95)
 
 ___
 
@@ -3697,7 +3719,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-extensions/src/contexts.ts:13](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/contexts.ts#L13)
+[packages/framework/esm-extensions/src/contexts.ts:13](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-extensions/src/contexts.ts#L13)
 
 ___
 
@@ -3721,7 +3743,7 @@ A promise which resolves once all registered handlers have finished synchronizin
 
 #### Defined in
 
-[packages/framework/esm-offline/src/offline-patient-data.ts:111](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L111)
+[packages/framework/esm-offline/src/offline-patient-data.ts:111](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L111)
 
 ___
 
@@ -3744,7 +3766,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-utils/src/translate.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/translate.ts#L3)
+[packages/framework/esm-utils/src/translate.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-utils/src/translate.ts#L3)
 
 ___
 
@@ -3772,7 +3794,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-state/src/update.ts:1](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-state/src/update.ts#L1)
+[packages/framework/esm-state/src/update.ts:1](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-state/src/update.ts#L1)
 
 ___
 
@@ -3797,7 +3819,7 @@ Does not consider if offline or online.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useAssignedExtensionIds.ts:12](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useAssignedExtensionIds.ts#L12)
+[packages/framework/esm-react-utils/src/useAssignedExtensionIds.ts:12](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useAssignedExtensionIds.ts#L12)
 
 ___
 
@@ -3820,7 +3842,7 @@ Does not consider if offline or online.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useAssignedExtensions.ts:14](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useAssignedExtensions.ts#L14)
+[packages/framework/esm-react-utils/src/useAssignedExtensions.ts:14](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useAssignedExtensions.ts#L14)
 
 ___
 
@@ -3840,7 +3862,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useBodyScrollLock.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useBodyScrollLock.ts#L3)
+[packages/framework/esm-react-utils/src/useBodyScrollLock.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useBodyScrollLock.ts#L3)
 
 ___
 
@@ -3866,7 +3888,7 @@ Use this React Hook to obtain your module's configuration.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useConfig.ts:103](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useConfig.ts#L103)
+[packages/framework/esm-react-utils/src/useConfig.ts:103](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useConfig.ts#L103)
 
 ___
 
@@ -3889,7 +3911,7 @@ Considers if offline or online.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useConnectedExtensions.ts:14](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useConnectedExtensions.ts#L14)
+[packages/framework/esm-react-utils/src/useConnectedExtensions.ts:14](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useConnectedExtensions.ts#L14)
 
 ___
 
@@ -3903,7 +3925,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useConnectivity.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useConnectivity.ts#L4)
+[packages/framework/esm-react-utils/src/useConnectivity.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useConnectivity.ts#L4)
 
 ___
 
@@ -3928,7 +3950,7 @@ all the information needed to render a loading state, error state, and normal/su
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useCurrentPatient.ts:82](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useCurrentPatient.ts#L82)
+[packages/framework/esm-react-utils/src/useCurrentPatient.ts:82](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useCurrentPatient.ts#L82)
 
 ___
 
@@ -3956,7 +3978,7 @@ Extract meta data from all extension for a given extension slot.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useExtensionSlotMeta.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionSlotMeta.ts#L9)
+[packages/framework/esm-react-utils/src/useExtensionSlotMeta.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionSlotMeta.ts#L9)
 
 ___
 
@@ -3970,7 +3992,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useExtensionStore.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionStore.ts#L4)
+[packages/framework/esm-react-utils/src/useExtensionStore.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionStore.ts#L4)
 
 ▸ `Const` **useExtensionStore**(`actions`): `T` & [`BoundActions`](API.md#boundactions)
 
@@ -3986,7 +4008,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useExtensionStore.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionStore.ts#L4)
+[packages/framework/esm-react-utils/src/useExtensionStore.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionStore.ts#L4)
 
 ▸ `Const` **useExtensionStore**(`actions?`): `T` & [`BoundActions`](API.md#boundactions)
 
@@ -4002,7 +4024,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useExtensionStore.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionStore.ts#L4)
+[packages/framework/esm-react-utils/src/useExtensionStore.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useExtensionStore.ts#L4)
 
 ___
 
@@ -4022,7 +4044,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useForceUpdate.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useForceUpdate.ts#L3)
+[packages/framework/esm-react-utils/src/useForceUpdate.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useForceUpdate.ts#L3)
 
 ___
 
@@ -4036,7 +4058,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useLayoutType.ts:22](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useLayoutType.ts#L22)
+[packages/framework/esm-react-utils/src/useLayoutType.ts:22](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useLayoutType.ts#L22)
 
 ___
 
@@ -4050,7 +4072,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useLocations.tsx:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useLocations.tsx#L4)
+[packages/framework/esm-react-utils/src/useLocations.tsx:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useLocations.tsx#L4)
 
 ___
 
@@ -4072,7 +4094,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useNavigationContext.ts:10](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useNavigationContext.ts#L10)
+[packages/framework/esm-react-utils/src/useNavigationContext.ts:10](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useNavigationContext.ts#L10)
 
 ___
 
@@ -4099,7 +4121,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useOnClickOutside.tsx:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useOnClickOutside.tsx#L3)
+[packages/framework/esm-react-utils/src/useOnClickOutside.tsx:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useOnClickOutside.tsx#L3)
 
 ___
 
@@ -4138,7 +4160,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/usePagination.ts:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/usePagination.ts#L5)
+[packages/framework/esm-react-utils/src/usePagination.ts:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/usePagination.ts#L5)
 
 ___
 
@@ -4170,7 +4192,7 @@ a route listener is set up to update the patient whenever the route changes.
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/usePatient.ts:91](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/usePatient.ts#L91)
+[packages/framework/esm-react-utils/src/usePatient.ts:91](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/usePatient.ts#L91)
 
 ___
 
@@ -4184,7 +4206,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useSessionUser.tsx:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useSessionUser.tsx#L4)
+[packages/framework/esm-react-utils/src/useSessionUser.tsx:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useSessionUser.tsx#L4)
 
 ___
 
@@ -4210,7 +4232,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useStore.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useStore.ts#L4)
+[packages/framework/esm-react-utils/src/useStore.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useStore.ts#L4)
 
 ▸ **useStore**<`T`\>(`store`, `actions`): `T` & [`BoundActions`](API.md#boundactions)
 
@@ -4233,7 +4255,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useStore.ts:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useStore.ts#L5)
+[packages/framework/esm-react-utils/src/useStore.ts:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useStore.ts#L5)
 
 ___
 
@@ -4261,7 +4283,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useStoreState.ts:5](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useStoreState.ts#L5)
+[packages/framework/esm-react-utils/src/useStoreState.ts:5](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useStoreState.ts#L5)
 
 ___
 
@@ -4287,7 +4309,7 @@ Object {`error` `isValidating`, `currentVisit`, `mutate`}
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useVisit.ts:22](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useVisit.ts#L22)
+[packages/framework/esm-react-utils/src/useVisit.ts:22](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useVisit.ts#L22)
 
 ___
 
@@ -4301,7 +4323,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-react-utils/src/useVisitTypes.ts:4](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useVisitTypes.ts#L4)
+[packages/framework/esm-react-utils/src/useVisitTypes.ts:4](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-react-utils/src/useVisitTypes.ts#L4)
 
 ___
 
@@ -4322,4 +4344,4 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-config/src/validators/validator.ts:3](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validator.ts#L3)
+[packages/framework/esm-config/src/validators/validator.ts:3](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-config/src/validators/validator.ts#L3)

@@ -21,7 +21,7 @@ the handler registration.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/offline-patient-data.ts:15](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L15)
+[packages/framework/esm-offline/src/offline-patient-data.ts:15](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L15)
 
 ___
 
@@ -34,4 +34,4 @@ the current data synchronizaton state.
 
 #### Defined in
 
-[packages/framework/esm-offline/src/offline-patient-data.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L9)
+[packages/framework/esm-offline/src/offline-patient-data.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-offline/src/offline-patient-data.ts#L9)

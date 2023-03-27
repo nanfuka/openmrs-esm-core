@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:8](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L8)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:8](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L8)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:9](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L9)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:9](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L9)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:13](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L13)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:13](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L13)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:10](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L10)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:10](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L10)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:11](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L11)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:11](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L11)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:14](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L14)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:14](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L14)
 
 ___
 
@@ -89,4 +89,4 @@ ___
 
 #### Defined in
 
-[packages/framework/esm-api/src/types/openmrs-resource.ts:12](https://github.com/openmrs/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L12)
+[packages/framework/esm-api/src/types/openmrs-resource.ts:12](https://github.com/nanfuka/openmrs-esm-core/blob/master/packages/framework/esm-api/src/types/openmrs-resource.ts#L12)
